@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ಗ್ರಾಮ-ತ್ಯಾಜ್ಯ ಟ್ರ್ಯಾಕರ್</string>
+    <string name="Live_tractor_map">ಲೈವ್ ಟ್ರ್ಯಾಕ್ಟರ್ ನಕ್ಷೆ</string>
+    <string name="report_garbage">ತಕಸದ ವರದಿ</string>
+    <string name="admin_panel">ಆಡಳಿತ ವಿಭಾಗ</string>
+    <string name="distance">
+        Vehicle Distance / ವಾಹನದ ದೂರ
+    </string>
+
+    <string name="submit">
+        Submit Report / ವರದಿ ಸಲ್ಲಿಸಿ
+    </string>
+
+    <string name="select_image">
+        Select Garbage Image / ಕಸದ ಚಿತ್ರ ಆಯ್ಕೆಮಾಡಿ
+    </string>
+    <string name="tractor_arriving">ಟ್ರಾಕ್ಟರ್ ಹತ್ತಿರದಲ್ಲಿದೆ! ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕಸದ ಬುಟ್ಟಿಗಳನ್ನು ಸಿದ್ಧವಾಗಿಡಿ.</string>
+    <string name="dry_waste">ಒಣ ತ್ಯಾಜ್ಯ: ಕಾಗದ, ಪ್ಲಾಸ್ಟಿಕ್, ಗಾಜು</string>
+    <string name="wet_waste">ಹಸಿ ತ್ಯಾಜ್ಯ: ಆಹಾರ, ಸಿಪ್ಪೆಗಳು, ಸಾವಯವ</string>
+
+    <string name="issue_hint"> Enter Issue / ಸಮಸ್ಯೆ ನಮೂದಿಸಿ </string>
+    <string name="location_hint"> Enter Location / ಸ್ಥಳ ನಮೂದಿಸಿ </string>
+    <string name="report_title"> Report Garbage Issue / ಕಸದ ಸಮಸ್ಯೆ ವರದಿ </string>
+</resources>

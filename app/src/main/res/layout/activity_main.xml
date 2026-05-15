@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🚜 Grama Waste Tracker"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/mapBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Live_tractor_map"
+
+    />
+
+    <Button
+        android:id="@+id/reportBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/report_garbage"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/adminBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/admin_panel"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
