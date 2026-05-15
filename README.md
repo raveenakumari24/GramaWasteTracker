@@ -57,7 +57,7 @@ Grama Waste Tracker is an Android application developed to improve rural waste c
 * Kotlin
 * Android Studio
 * Firebase Realtime Database
-* OpenStreetMap (OSMDroid)
+* GoogleMap
 * XML Layout Design
 
 ---
@@ -151,17 +151,6 @@ Run ▶
 ![Admin Screen](ScreenShots/adminmap.jpeg)
 
 
----
-
-# 🎯 Future Improvements
-
-* Real GPS-based tracking
-* Push notifications
-* AI waste detection
-* Route optimization
-* User authentication
-* Cloud image storage
-* Kannada voice support
 
 ---
 
