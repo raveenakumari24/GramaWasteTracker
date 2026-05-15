@@ -133,15 +133,22 @@ Run ▶
 ---
 
 # 📸 Screens Included### 
-🏠 Home Screen ![Home Screen](screenshots/homepage.jpeg) --- ### 
+🏠 Home Screen 
+![Home Screen](ScreenShots/homepage.jpeg) 
+--- ### 
 
-🚜 Live Tractor Tracking ![Map Screen](screenshots/livetracker.jpeg) --- ### 
+🚜 Live Tractor Tracking
+![Map Screen](ScreenShots/livetracker.jpeg) 
+--- ### 
 
 
-🚨 Garbage Report Page ![Report Screen](screenshots/resportgarbage.jpeg) --- ### 
+🚨 Garbage Report Page
+![Report Screen](ScreenShots/resportgarbage.jpeg) 
+--- ### 
 
 
-🗺 Admin Panel ![Admin Screen](screenshots/adminmap.japeg)
+🗺 Admin Panel 
+![Admin Screen](ScreenShots/adminmap.jpeg)
 
 
 ---
